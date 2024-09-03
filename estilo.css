@@ -1,0 +1,18 @@
+     
+         body{ background-color: black; color: rgb(148, 126, 92); font-family: montserrat;}
+         h1{color: white; }
+         h3{color: rgb(54, 46, 34); text-align: center;}
+         h4{border: solid rgb(148, 126, 92); padding-left: 10%; margin: 10px;}
+         .tamanho{width: 30%; height: 20px; border: solid 0px;
+        border-radius: 50px 5px;}
+        .espaco{padding: 20px;}
+        .principal{width: 100%; padding: 20px; margin: auto;}
+        .cor1{background-color: rgb(148, 126, 92)}
+        .cor2{background-color: rgb(99, 99, 99);}
+         div{width: 50%; margin: auto;}  
+ 
+         ul{ list-style-type: none; margin: 0; padding: 0; background-color: antiquewhite;}
+         li{float:left;}
+         li a{ display:block; color: rgb(148, 126, 92); padding: 9px 17px; text-decoration: none}
+         li a:hover {background-color: rgb(102, 89, 73);}
+         #espacamento{padding: 100px}
